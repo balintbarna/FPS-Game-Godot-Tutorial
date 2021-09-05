@@ -1,0 +1,1 @@
+This is the result of me following the Godot FPS game tutorial and adding my own tweaks to it
